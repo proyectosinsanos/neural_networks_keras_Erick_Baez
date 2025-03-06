@@ -1,4 +1,4 @@
-# README - Entrenamiento de Red Neuronal con MNIST
+# Entrenamiento de Red Neuronal con MNIST
 
 ## Descripción
 Este proyecto implementa una red neuronal para el reconocimiento de dígitos escritos a mano utilizando la base de datos MNIST. La red es construida con Keras y entrenada para clasificar imágenes de dígitos del 0 al 9. El modelo utiliza capas densas con activaciones ReLU y Softmax.
